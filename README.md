@@ -4,14 +4,15 @@ Hyperspectral images (HSI) possess a very high spectral resolution (due to innum
 
 ![Autoencoder](images/fbae.png)
 
->URL to the paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9883594
+# URL to the paper: 
+>[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9883594)
 
-Requirement:
+# Requirement:
 
 ```
 Tensorflow 2
 ```
-Steps:
+# Steps:
 
 ```
 1. Download the dataset from the provided URL in data folder
@@ -22,6 +23,7 @@ Steps:
 ```
 3. Run model_fbae.py
 ```
+# Citation
 
 If using the concept or code, kindly cite the paper as: 
 >S. Pande, B. Banerjee. Feedback Convolution Based Autoencoder for Dimensionality Reduction in Hyperspectral Images. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July, 2022.
